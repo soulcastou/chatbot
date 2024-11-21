@@ -57,5 +57,5 @@ WebServer --> Database : JDBC (MySQL)
 WebServer --> ExternalAPI : HTTPS (REST API)
 @enduml
 ```
-![Diagrama de Despliegue UML de la Aplicación de Animes](diagrama_anime.png)
+!(diagrama_anime.png)
 
