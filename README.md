@@ -1,4 +1,3 @@
-
 # Proyecto: Agente Inteligente para Servicio al Cliente y Resolución de Dudas
 ---
 ## Objetivo General
@@ -15,12 +14,39 @@ La implementación de un agente inteligente para el servicio al cliente es funda
 
 ## Planteamiento del Problema
 En el contexto actual, las empresas se enfrentan al desafío de atender a un número creciente de consultas y solicitudes de los clientes, lo cual puede saturar los canales de atención y afectar negativamente la experiencia del usuario. Este problema se ve agravado por la necesidad de mantener una respuesta rápida y precisa, lo que no siempre es posible con la intervención humana exclusiva. La falta de un sistema eficiente de servicio al cliente puede llevar a la insatisfacción, pérdida de clientes y una mala reputación de la empresa. Por lo tanto, es necesario un agente inteligente que pueda gestionar y resolver las dudas de los clientes de manera automática, precisa y rápida.
+
+## Diagramas
+A continuación, se incluyen los diagramas representativos del sistema de agente inteligente.
+
+### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](images/casosdeuso.png)
+
+### Diagrama de Secuencia del Agente Inteligente
+![Diagrama de Secuencia del Agente Inteligente](images/diagrama_anime.png)
+
+### Diagrama de Clases
+![Diagrama de Clases](images/diagramadeclases.PNG)
+
+### Diagrama de Flujo
+![Diagrama de Flujo](images/flujo.png)
+
+### Diagrama de Objetos
+![Diagrama de Objetos](images/objeto.png)
+
+### Diagrama de Colaboración
+![Diagrama de Colaboración](images/diagrama de colaboracion.png)
+
+### Diagrama de Despliegue
+![Diagrama de Despliegue](images/diagrama de despliegue.png)
+
+### Diagrama de Estado
+![Diagrama de Estado](images/diagrama de estado.png)
+
 ## Ejemplo de Código
 
 # Agente Inteligente para Servicio al Cliente en Java
 
 Este proyecto es un ejemplo de un sistema de agente inteligente para servicio al cliente, construido en Java. Incluye varias clases que modelan distintos componentes del sistema, como la base de conocimientos, el procesamiento de lenguaje natural y el seguimiento de métricas. 
-
 
 ```java
 import java.util.HashMap;
@@ -152,7 +178,5 @@ public class CustomerServiceSystem {
     }
 }
 ```
-
-
-## Conclusión
+##Conclusión
 La creación e implementación de un agente inteligente para el servicio al cliente y resolución de dudas se presenta como una solución efectiva para enfrentar los desafíos actuales en la atención al cliente. Este proyecto no solo busca mejorar la eficiencia en la resolución de consultas, sino también incrementar la satisfacción del cliente, optimizar recursos y fortalecer la imagen de la empresa. Al utilizar tecnologías avanzadas como el procesamiento de lenguaje natural y la inteligencia artificial, se puede ofrecer un servicio de alta calidad que responde a las necesidades de los usuarios en tiempo real, lo que resulta en un valor añadido significativo para la empresa.
