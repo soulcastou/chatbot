@@ -21,9 +21,6 @@ A continuación, se incluyen los diagramas representativos del sistema de agente
 ### Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](images/casosdeuso.png)
 
-### Diagrama de Secuencia del Agente Inteligente
-![Diagrama de Secuencia del Agente Inteligente](images/diagrama_anime.png)
-
 ### Diagrama de Clases
 ![Diagrama de Clases](images/diagramadeclases.PNG)
 
