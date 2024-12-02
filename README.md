@@ -31,13 +31,13 @@ A continuación, se incluyen los diagramas representativos del sistema de agente
 ![Diagrama de Objetos](images/objeto.png)
 
 ### Diagrama de Colaboración
-![Diagrama de Colaboración](images/diagrama de colaboracion.png)
+![Diagrama de Colaboración](images/colaboracion.png)
 
 ### Diagrama de Despliegue
-![Diagrama de Despliegue](images/diagrama de despliegue.png)
+![Diagrama de Despliegue](images/despliegue.png)
 
 ### Diagrama de Estado
-! [Diagrama de Estado](images/diagrama de estado.png)
+![Diagrama de Estado](images/estado.png)
 
 ## Ejemplo de Código
 
