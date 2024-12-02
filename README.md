@@ -1,4 +1,4 @@
-0# Proyecto: Agente Inteligente para Servicio al Cliente y Resolución de Dudas
+# Proyecto: Agente Inteligente para Servicio al Cliente y Resolución de Dudas
 ---
 ## Objetivo General
 Desarrollar un agente inteligente capaz de proporcionar un servicio al cliente eficiente y efectivo, respondiendo de manera precisa a las preguntas y resolviendo dudas comunes, mejorando así la experiencia del usuario y optimizando los recursos de la empresa.
